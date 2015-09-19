@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: BlizzHide
+## Author: Syroun
+## Version: 0.0.1
+## GitHub: https://github.com/Syroun/blizzhide
+
+blizzhide.lua
